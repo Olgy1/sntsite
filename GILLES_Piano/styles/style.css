@@ -1,0 +1,51 @@
+#t1{
+	color: #040404;
+	font-size: 30px;
+	text-align: center;
+	font-family: Georgia
+}
+#image{
+	display:block;
+	width:1150px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#image2{
+	display:block;
+	width: 575px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#image3{
+	display:block;
+	width: 450px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#titre {
+	color: #174921;
+	font-size: 60px;
+	text-align: center;
+	font-family: Georgia
+}
+#lien{
+	text-align: center;
+	font-size: 30px;
+}
+
+body {
+	background-color: #f3e9d5;
+}
+.bouton {
+	color: #368546;
+	font-size: 30px;
+	text-align: center;
+	font-family: Georgia
+}
+.mentionslegales {
+	color: #368546;
+	font-size: 25px;
+	text-align: center;
+	font-family: Georgia
+}
